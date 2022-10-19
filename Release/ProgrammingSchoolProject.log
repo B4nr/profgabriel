@@ -1,0 +1,8 @@
+﻿  ProgrammingSchoolProject.cpp
+C:\Users\Rodrigo\Desktop\Stats Programming\stats-main\C++\ProgrammingSchoolProject\ProgrammingSchoolProject.cpp(123,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rodrigo\Desktop\Stats Programming\stats-main\C++\ProgrammingSchoolProject\ProgrammingSchoolProject.cpp(128,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 162 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ProgrammingSchoolProject.vcxproj -> C:\Users\Rodrigo\Desktop\Stats Programming\stats-main\C++\ProgrammingSchoolProject\x64\Release\ProgrammingSchoolProject.exe
