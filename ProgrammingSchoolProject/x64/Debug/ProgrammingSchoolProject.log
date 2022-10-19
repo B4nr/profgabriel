@@ -1,0 +1,4 @@
+﻿  ProgrammingSchoolProject.cpp
+C:\Users\Rodrigo\Desktop\Stats Programming\stats-main\C++\ProgrammingSchoolProject\ProgrammingSchoolProject.cpp(123,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Rodrigo\Desktop\Stats Programming\stats-main\C++\ProgrammingSchoolProject\ProgrammingSchoolProject.cpp(128,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ProgrammingSchoolProject.vcxproj -> C:\Users\Rodrigo\Desktop\Stats Programming\stats-main\C++\ProgrammingSchoolProject\x64\Debug\ProgrammingSchoolProject.exe
